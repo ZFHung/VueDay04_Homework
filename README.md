@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+台北Youbike查找功能
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+1.完成功能:搜尋關鍵字並即時顯示該相關站點。
+2.點擊該站點可加入蒐藏、取消蒐藏。
+3.重新整理後，蒐藏內容可存在網頁中，也能刪除。
